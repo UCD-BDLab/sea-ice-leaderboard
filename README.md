@@ -1,36 +1,57 @@
-# Sea Ice Leaderboard
+# Sea Ice Classification Benchmark Leaderboard
+
+## Repository Overview
+
+This repository serves as the official **benchmarking leaderboard** for sea ice type classification models. It allows researchers and practitioners to submit their models, compare their performance against established baselines, and contribute to advancing the state of the art in sea ice classification. The leaderboard tracks key metrics, including accuracy, F1-score, precision, and recall for both supervised and semi-supervised learning methods.
+
+### Goals
+
+- **Create a centralized leaderboard** for sea ice type classification models.
+- **Encourage contributions** and comparisons of different models.
+- **Provide baseline models** and easy access to pre-trained checkpoints.
+- **Serve as a resource** for researchers working on sea ice classification.
+
+## How to Participate
+
+1. **Clone this Repository**:
+   
+   ```bash
+   git clone https://github.com/your-username/sea-ice-benchmark-leaderboard.git
+   cd sea-ice-benchmark-leaderboard
 
 
-Welcome to the Sea Ice Leaderboard repository! This repository serves as a benchmark and evaluation platform for sea ice type classification models. It provides a centralized place for researchers and practitioners to contribute their models, evaluate them on standardized datasets, and compare their performance on the leaderboard.
+2. **Submit Your Model**:
 
-## Goals
-- Provide an open-source framework for evaluating sea ice classification models.
-- Establish a baseline for both supervised and semi-supervised learning approaches.
-- Facilitate reproducibility and transparency in research related to sea ice classification.
+   - Create a JSON file in the `submission/` folder with the following format:
+   
+     ```json
+     {
+       "model_name": "Your_Model_Name",
+       "methodology": "Supervised / Semi-Supervised",
+       "model_type": "Type_of_Model (e.g., CNN, Transformer, etc.)",
+       "data_used": "Labeled / Unlabeled / Both",
+       "accuracy": 0.XX,
+       "f1_score": 0.XX,
+       "precision": 0.XX,
+       "recall": 0.XX,
+       "inference_time": "XX sec"
+     }
+     ```
+   - Ensure that your JSON file is named uniquely (e.g., `model_your_name.json`) and placed in the `submission/` folder.
+   - Follow the [submission guidelines](submission/submission_guidelines.md) to ensure correct formatting.
 
-## Repository Structure
-- **`data/`**: Links and scripts for downloading and preprocessing datasets.
-- **`notebooks/`**: Jupyter notebooks demonstrating usage, model training, and evaluation.
-- **`models/`**: Pre-trained models and scripts to run inference.
-- **`leaderboard/`**: Scripts for evaluating models and calculating leaderboard metrics.
+3. **Create a Pull Request**:
 
-## How to Contribute
-1. **Clone the Repository**:
-    ```bash
-    git clone git@github.com:bdlab-ucd/sea-ice-leaderboard.git
-    ```
-2. **Add Your Model**:
-   - Place your model code and any dependencies in a new folder under `models/`.
-   - Make sure to include a `README.md` file explaining your model and its usage.
+   - Once you have added your file, submit a pull request with the following title format:
 
-3. **Run Evaluation**:
-   - Use the evaluation scripts in `leaderboard/` to test your model on the provided datasets.
+     ```
+     [Submission] Model_Name
+     ```
 
-4. **Submit Your Results**:
-   - Create a pull request with your model's results and code.
-   - Include details like model architecture, training setup, and any relevant parameters.
+   - The submission will be reviewed, and if the format is correct, the leaderboard will be updated.
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+4. **Review the Leaderboard**:
+
+   - Once your submission is accepted, check the `leaderboard/leaderboard.md` file to see your model’s ranking.
 
 
