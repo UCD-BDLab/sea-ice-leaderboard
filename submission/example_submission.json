@@ -1,0 +1,11 @@
+{
+    "model_name": "Example_Model",
+    "methodology": "Supervised",
+    "model_type": "CNN",
+    "data_used": "Labeled + Unlabeled",
+    "accuracy": 0.95,
+    "f1_score": 0.93,
+    "precision": 0.94,
+    "recall": 0.92,
+    "inference_time": "0.02 sec"
+  }
