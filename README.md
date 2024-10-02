@@ -6,10 +6,6 @@ This repository serves as the official **benchmarking leaderboard** for sea ice 
 
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](https://github.com/bdlab-ucd/sea-ice-leaderboard)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
-[![GitHub forks](https://img.shields.io/github/forks/bdlab-ucd/sea-ice-leaderboard.svg?style=social&label=Fork)](https://github.com/bdlab-ucd/sea-ice-leaderboard/fork)
-[![GitHub stars](https://img.shields.io/github/stars/bdlab-ucd/sea-ice-leaderboard.svg?style=social&label=Star)](https://github.com/bdlab-ucd/sea-ice-leaderboard)
-
-
 
 ### Goals
 
