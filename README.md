@@ -4,6 +4,13 @@
 
 This repository serves as the official **benchmarking leaderboard** for sea ice type classification models. It allows researchers and practitioners to submit their models, compare their performance against established baselines, and contribute to advancing the state of the art in sea ice classification. The leaderboard tracks key metrics, including accuracy, F1-score, precision, and recall for both supervised and semi-supervised learning methods.
 
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](https://github.com/bdlab-ucd/sea-ice-leaderboard)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
+[![GitHub forks](https://img.shields.io/github/forks/bdlab-ucd/sea-ice-leaderboard.svg?style=social&label=Fork)](https://github.com/bdlab-ucd/sea-ice-leaderboard/fork)
+[![GitHub stars](https://img.shields.io/github/stars/bdlab-ucd/sea-ice-leaderboard.svg?style=social&label=Star)](https://github.com/bdlab-ucd/sea-ice-leaderboard)
+
+
+
 ### Goals
 
 - **Create a centralized leaderboard** for sea ice type classification models.
