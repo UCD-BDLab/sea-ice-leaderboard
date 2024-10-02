@@ -33,5 +33,4 @@ Welcome to the Sea Ice Leaderboard repository! This repository serves as a bench
 ## License
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
-## Contact
-For any questions, feel free to reach out via issues or email [team@bdlab-ucd.com](mailto:team@bdlab-ucd.com).
+
