@@ -18,11 +18,11 @@ This repository serves as the **official benchmark** for sea ice type classifica
 
 Here’s the current ranking of the top-performing models on the **AI4SEA ICE Dataset**:
 
-|  Rank |  Model Name         |  Model Type     |  Paper Venue         |  Code Link       |  Accuracy |  F1-Score | Precision |  Recall | 
-|------|-----------------------|----------|----------------|-------|-------------|------------|-------------|------------------|
-| 1    | **PolarNet**          | CNN              | CVPR 2023             | [GitHub](#)        | 0.95        | 0.93       | 0.94        | 0.92     | 
-| 2    | **IceDetect_v2**      | Transformer      | NeurIPS 2022          | [GitHub](#)        | 0.92        | 0.90       | 0.91        | 0.89     | 
-| 3    | **ArcticVision**      | Hybrid           | ICML 2023             | [GitHub](#)        | 0.90        | 0.88       | 0.89        | 0.87     | 
+|  Rank |  Model Name         |  Model Type |  Paper Venue |  Code   |  Accuracy |  F1-Score | Precision |  Recall | 
+|------|----------------------|----------|----------------|----------|-------------|---------|-----------|---------|
+| 1    | **Basic Unet**       | Unet     | TGRS 2024      | [GitHub](#) | 86.36    | 84.78   | 84.68     | 77.18   | 
+| 2    | **Bsic Densenet**    | CNN      | TGRS 2024    | [GitHub](#)  | 54.77     | 53.89   | 63.79     | 54.77   | 
+| 3    | **ArcticVision**     | Hybrid   | ICML 2023   | [GitHub](#)   | 0.90      | 0.88    | 0.89       | 0.87   | 
 
 
 ### Goals
