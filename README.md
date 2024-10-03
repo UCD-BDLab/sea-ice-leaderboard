@@ -2,10 +2,24 @@
 
 ## Repository Overview
 
-This repository serves as the official **benchmarking leaderboard** for sea ice type classification models. It allows researchers and practitioners to submit their models, compare their performance against established baselines, and contribute to advancing the state of the art in sea ice classification. The leaderboard tracks key metrics, including accuracy, F1-score, precision, and recall for both supervised and semi-supervised learning methods.
+Welcome to the **Sea Ice Classification Leaderboard**, where research meets competition, and the best models rise to the top! 🚀
+
+This repository serves as the **official benchmark** for sea ice type classification models. Here, researchers, students, and industry professionals can submit their models, challenge existing baselines, and **contribute to advancing the state of the art** in sea ice classification.
+
+ **Think you’ve built a better model?** This is the place to prove it! Submit your model, and let’s see where it stands among the best! 
+
 
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](https://github.com/bdlab-ucd/sea-ice-leaderboard)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
+
+## Leaderboard
+
+| Rank | Model Name     | Methodology       | Model Type  | Data Used         | Accuracy | F1-Score | Precision | Recall | Inference Time |
+|------|----------------|-------------------|-------------|-------------------|----------|----------|-----------|--------|----------------|
+| 1    | Example_Model  | Supervised        | CNN         | Labeled           | 0.95     | 0.93     | 0.94      | 0.92   | 0.02 sec       |
+| 2    | Model_Y        | Semi-Supervised   | Transformer | Both              | 0.92     | 0.90     | 0.91      | 0.89   | 0.03 sec       |
+| 3    | Model_Z        | Supervised        | Hybrid      | Labeled           | 0.90     | 0.88     | 0.89      | 0.87   | 0.04 sec       |
+
 
 ### Goals
 
