@@ -15,14 +15,14 @@ This repository serves as the **official benchmark** for sea ice type classifica
 
 ## Current Leaderboard
 
-Here’s the current ranking of the top-performing models. If your model isn’t here yet, it’s time to show us what you’ve got!
+
 Here’s the current ranking of the top-performing models on the **AI4SEA ICE Dataset**:
 
 |  Rank |  Model Name         |  Model Type     |  Paper Venue         |  Code Link       |  Accuracy |  F1-Score | Precision |  Recall | 
 |------|-----------------------|----------|----------------|-------|-------------|------------|-------------|------------------|
-| 1    | **PolarNet**          | CNN              | CVPR 2023             | [GitHub](#)        | 0.95        | 0.93       | 0.94        | 0.92     | 
-| 2    | **IceDetect_v2**      | Transformer      | NeurIPS 2022          | [GitHub](#)        | 0.92        | 0.90       | 0.91        | 0.89     | 
-| 3    | **ArcticVision**      | Hybrid           | ICML 2023             | [GitHub](#)        | 0.90        | 0.88       | 0.89        | 0.87     | 
+| 1    | **PolarNet**          | CNN              | CVPR 2023             | [![GitHub](https://img.shields.io/badge/code-GitHub-blue?logo=github)](#)        | 0.95        | 0.93       | 0.94        | 0.92     | 
+| 2    | **IceDetect_v2**      | Transformer      | NeurIPS 2022          | [![GitHub](https://img.shields.io/badge/code-GitHub-blue?logo=github)](#)        | 0.92        | 0.90       | 0.91        | 0.89     | 
+| 3    | **ArcticVision**      | Hybrid           | ICML 2023             | [![GitHub](https://img.shields.io/badge/code-GitHub-blue?logo=github)](#)        | 0.90        | 0.88       | 0.89        | 0.87     | 
 
 
 ### Goals
