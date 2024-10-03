@@ -12,13 +12,16 @@ This repository serves as the **official benchmark** for sea ice type classifica
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](https://github.com/bdlab-ucd/sea-ice-leaderboard)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
 
-## Leaderboard
 
-| Rank | Model Name     | Methodology       | Model Type  | Data Used         | Accuracy | F1-Score | Precision | Recall | Inference Time |
-|------|----------------|-------------------|-------------|-------------------|----------|----------|-----------|--------|----------------|
-| 1    | Example_Model  | Supervised        | CNN         | Labeled           | 0.95     | 0.93     | 0.94      | 0.92   | 0.02 sec       |
-| 2    | Model_Y        | Semi-Supervised   | Transformer | Both              | 0.92     | 0.90     | 0.91      | 0.89   | 0.03 sec       |
-| 3    | Model_Z        | Supervised        | Hybrid      | Labeled           | 0.90     | 0.88     | 0.89      | 0.87   | 0.04 sec       |
+## 🏅 Current Leaderboard
+
+Here’s the current ranking of the top-performing models. If your model isn’t here yet, it’s time to show us what you’ve got!
+
+| Rank | Model Name     |  Model Type  | Data Used         | Accuracy | F1-Score | Precision | Recall | Inference Time |
+|------|----------------|--------------|-------------|-------------------|----------|----------|-----------|--------|----------------|
+| 1    | Example_Model  |  CNN         | Labeled           | 0.95     | 0.93     | 0.94      | 0.92   | 0.02 sec       |
+| 2    | Model_Y        |  Transformer | Both              | 0.92     | 0.90     | 0.91      | 0.89   | 0.03 sec       |
+| 3    | Model_Z        |  Hybrid      | Labeled           | 0.90     | 0.88     | 0.89      | 0.87   | 0.04 sec       |
 
 
 ### Goals
@@ -27,6 +30,18 @@ This repository serves as the **official benchmark** for sea ice type classifica
 - **Encourage contributions** and comparisons of different models.
 - **Provide baseline models** and easy access to pre-trained checkpoints.
 - **Serve as a resource** for researchers working on sea ice classification.
+
+## Why Participate?
+
+### **Push the Boundaries of Sea Ice Research**
+This leaderboard is not just about rankings; it’s about **discovering better solutions** for understanding and classifying sea ice types. Sea ice is critical to the global climate system, and **your contributions can make a difference**!
+
+### **Access to Baseline Models**
+Get started quickly with our **baseline models**, detailed documentation, and **pre-trained checkpoints**. Tweak them, experiment, and see if you can outperform the existing approaches!
+
+### **Join a Community of Innovators**
+Connect with like-minded researchers, contribute your findings, and **collaborate to push the field forward**.
+
 
 ## How to Participate
 
