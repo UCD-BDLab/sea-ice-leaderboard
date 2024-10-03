@@ -22,7 +22,7 @@ Here’s the current ranking of the top-performing models on the **AI4SEA ICE Da
 |------|----------------------|----------|----------------|----------|-------------|---------|-----------|---------|
 | 1    | **Basic Unet**       | Unet     | TGRS 2024      | [GitHub](#) | 86.36    | 84.78   | 84.68     | 77.18   | 
 | 2    | **Bsic Densenet**    | CNN      | TGRS 2024    | [GitHub](#)  | 54.77     | 53.89   | 63.79     | 54.77   | 
-| 3    | **ArcticVision**     | Hybrid   | ICML 2023   | [GitHub](#)   | 0.90      | 0.88    | 0.89       | 0.87   | 
+
 
 
 ### Goals
