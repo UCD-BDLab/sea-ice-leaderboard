@@ -13,15 +13,16 @@ This repository serves as the **official benchmark** for sea ice type classifica
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
 
 
-## Current Leaderboard On AutoIce dataset
+## Current Leaderboard On AutoIce Challenge dataset
 
 
-Here’s the current ranking of the top-performing models on the **AI4SEA ICE Dataset**:
+Here’s the current ranking of the top-performing models on the AI4SEA ICE Dataset:
 
-|  Rank |  Model Name         |  Model Type |  Paper Venue |  Code   |  Accuracy |  F1-Score | Precision |  Recall | 
-|------|----------------------|----------|----------------|----------|-------------|---------|-----------|---------|
-| 1    | **Basic Unet**       | Unet     | TGRS 2024      | [GitHub](#) | 86.36    | 84.78   | 84.68     | 77.18   | 
-| 2    | **Bsic Densenet**    | CNN      | TGRS 2024    | [GitHub](#)  | 54.77     | 53.89   | 63.79     | 54.77   | 
+|  Rank |  Model Name         |  Model Type |  Paper Venue    |  Code   |  Accuracy |  F1-Score | Precision |  Recall | 
+|------|----------------------|-------------|----------------|----------|-------------|---------|-----------|---------|
+| 1    | UNet Venuew Cryosphere | UNet       | Cryosphere  | [GitHub](https://github.com/echonax07/MMSeaIce) | N/A      | 88.7     | N/A       | N/A     | 
+| 2    | Basic Unet       | UNet       | TGRS 2024      | [GitHub](https://github.com/bdlab-ucd/IceBench) | 86.36    | 84.78   | 84.68     | 77.18   | 
+| 3    | Basic Densenet    | CNN      | TGRS 2024    | [GitHub](https://github.com/bdlab-ucd/IceBench)  | 54.77     | 53.89   | 63.79     | 54.77   | 
 
 
 
