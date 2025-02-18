@@ -13,10 +13,10 @@ This repository serves as the **official benchmark** for sea ice type classifica
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
 
 
-## Current Leaderboard On AutoIce Challenge dataset
+## Current Leaderboard On AI4Arctic Sea Ice Challenge Dataset Challenge dataset
 
 
-Here’s the current ranking of the top-performing models on the AI4SEA ICE Dataset:
+Here’s the current ranking of the top-performing models on the AI4Arctic Sea Ice Challenge Dataset:
 
 |  Rank |  Model Name         |  Model Type |  Paper Venue    |  Code   |  Accuracy |  F1-Score | Precision |  Recall | 
 |------|----------------------|-------------|----------------|----------|-------------|---------|-----------|---------|
