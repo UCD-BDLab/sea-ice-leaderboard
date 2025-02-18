@@ -18,11 +18,12 @@ This repository serves as the **official benchmark** for sea ice type classifica
 
 Here’s the current ranking of the top-performing models on the AI4Arctic Sea Ice Challenge Dataset:
 
-|  Rank |  Model Name         |  Model Type |  Paper Venue    |  Code   |  Accuracy |  F1-Score | Precision |  Recall | 
-|------|----------------------|-------------|----------------|----------|-------------|---------|-----------|---------|
-| 1    | MMSeaIce | UNet       | Cryosphere  | [GitHub](https://github.com/echonax07/MMSeaIce) | N/A      | 88.7     | N/A       | N/A     | 
-| 2    |  Unet       | UNet       | TGRS 2024      | [GitHub](https://github.com/bdlab-ucd/IceBench) | 86.36    | 84.78   | 84.68     | 77.18   | 
-| 3    |  Densenet    | CNN      | TGRS 2024    | [GitHub](https://github.com/bdlab-ucd/IceBench)  | 54.77     | 53.89   | 63.79     | 54.77   | 
+|  Rank |  Model Name         |  Model Type |  Paper Venue    |  Code   |  Accuracy |  F1-Score | Precision |  Recall |  IoU  |
+|------|----------------------|-------------|----------------|----------|-------------|---------|-----------|---------|------|
+| 1    | MMSeaIce | UNet       | Cryosphere  | [GitHub](https://github.com/echonax07/MMSeaIce) | N/A      | 88.7     | N/A       | N/A     | N/A  |
+| 2    |  Unet       | UNet       | TGRS 2024      | [GitHub](https://github.com/bdlab-ucd/IceBench) | 86.36    | 84.78   | 84.68     | 86.36  | 77.18 |
+| 3    |  Densenet    | CNN      | TGRS 2024    | [GitHub](https://github.com/bdlab-ucd/IceBench)  | 54.77     | 53.89   | 63.79     | 54.77   | 38.51  |
+
 
 
 
