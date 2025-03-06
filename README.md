@@ -67,11 +67,11 @@ Connect with like-minded researchers, contribute your findings, and **collaborat
        "f1_score": XX.XX,
        "precision": XX.XX,
        "recall": XX.XX,
-       "iou": "XX.XX"
+       "iou": XX.XX
      }
      ```
    - Ensure that your JSON file is named uniquely (e.g., `model_your_name.json`) and placed in the `submission/` folder.
-   - Follow the [submission guidelines](submission/submission_guidelines.md) to ensure correct formatting.
+ 
 
 3. **Create a Pull Request**:
 
