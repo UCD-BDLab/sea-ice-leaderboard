@@ -10,8 +10,9 @@ This repository serves as the **official benchmark** for sea ice type classifica
 
 
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](https://github.com/bdlab-ucd/sea-ice-leaderboard) 
-[![Awesome Sea Ice Papers ❄️](https://img.shields.io/badge/Awesome_Sea_Ice_Papers-❄️-purple?style=flat-square)](https://github.com/your-repo-link)
-[![IceBench 😎](https://img.shields.io/badge/IceBench-%F0%9F%98%8E-blue?style=flat-square)](https://github.com/bdlab-ucd/IceBench/tree/main)
+[![IceBench ❄️](https://img.shields.io/badge/IceBench-❄️-blue?style=flat-square)](https://github.com/bdlab-ucd/IceBench/tree/main)
+[![Awesome 😎](https://img.shields.io/badge/Awesome-😎-purple?style=flat-square)]([https://github.com/your-repo-link](https://github.com/samiraat/Awesome-Sea-Ice-Papers))
+
 
 
 
