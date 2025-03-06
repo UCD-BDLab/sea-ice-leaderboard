@@ -14,7 +14,7 @@ This repository serves as the **official benchmark** for sea ice type classifica
 
 
 ## Current Leaderboard On AI4Arctic Sea Ice Challenge Dataset Challenge dataset
-
+![Leaderboard](leaderboard.jpg)
 
 Here’s the current ranking of the top-performing models on the AI4Arctic Sea Ice Challenge Dataset:
 
