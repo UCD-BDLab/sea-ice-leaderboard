@@ -62,14 +62,12 @@ Connect with like-minded researchers, contribute your findings, and **collaborat
      ```json
      {
        "model_name": "Your_Model_Name",
-       "methodology": "Supervised / Semi-Supervised",
        "model_type": "Type_of_Model (e.g., CNN, Transformer, etc.)",
-       "data_used": "Labeled / Unlabeled / Both",
-       "accuracy": 0.XX,
+       "accuracy": XX.XX,
        "f1_score": 0.XX,
        "precision": 0.XX,
        "recall": 0.XX,
-       "inference_time": "XX sec"
+       "iou": "0."
      }
      ```
    - Ensure that your JSON file is named uniquely (e.g., `model_your_name.json`) and placed in the `submission/` folder.
