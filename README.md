@@ -11,6 +11,8 @@ This repository serves as the **official benchmark** for sea ice type classifica
 
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](https://github.com/bdlab-ucd/sea-ice-leaderboard) 
 [![Awesome Sea Ice Papers](https://img.shields.io/badge/Awesome-Sea%20Ice%20Papers-purple)](https://github.com/samiraat/Awesome-Sea-Ice-Papers)
+[![IceBench](https://img.shields.io/badge/IceBench-Repository-blue?style=flat-square)](https://github.com/bdlab-ucd/IceBench/tree/main)
+
 
 
 ## Current Leaderboard On AI4Arctic Sea Ice Challenge Dataset Challenge dataset
