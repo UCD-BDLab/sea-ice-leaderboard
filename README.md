@@ -61,14 +61,15 @@ Connect with like-minded researchers, contribute your findings, and **collaborat
    
      ```json
      {
-       "model_name": "Your_Model_Name",
-       "model_type": "Type_of_Model (e.g., CNN, Transformer, etc.)",
-       "accuracy": XX.XX,
-       "f1_score": XX.XX,
-       "precision": XX.XX,
-       "recall": XX.XX,
-       "iou": XX.XX
-     }
+     "model_name": "Your_Model_Name",
+     "model_type": "Type_of_Model (e.g., CNN, Transformer, etc.)",
+     "accuracy": XX.XX,
+     "f1_score": XX.XX,
+     "precision": XX.XX,
+     "recall": XX.XX,
+     "iou": XX.XX,
+     "github_link": "https://github.com/your-repo"
+   }
      ```
    - Ensure that your JSON file is named uniquely (e.g., `model_your_name.json`) and placed in the `submission/` folder.
  
