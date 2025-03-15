@@ -56,8 +56,8 @@ Connect with like-minded researchers, contribute your findings, and **collaborat
 1. **Clone this Repository**:
    
    ```bash
-   git clone git@github.com:bdlab-ucd/sea-ice-leaderboard.git
-   cd sea-ice-benchmark-leaderboard
+   git clone git@github.com:UCD-BDLab/sea-ice-leaderboard.git
+   cd sea-ice-leaderboard
 
 
 2. **Submit Your Model**:
