@@ -1,8 +1,8 @@
-# Sea Ice Classification Benchmark Leaderboard
+# Sea Ice Type Classification Leaderboard
 
 ## Repository Overview
 
-Welcome to the **Sea Ice Classification Leaderboard**, where research meets competition, and the best models rise to the top! 🚀
+Welcome to the **Sea Ice Type Classification Leaderboard**, where research meets competition, and the best models rise to the top! 🚀
 
 This repository serves as the **official benchmark** for sea ice type classification models. Here, researchers, students, and industry professionals can submit their models, challenge existing baselines, and **contribute to advancing the state of the art** in sea ice classification.
 
