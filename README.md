@@ -30,7 +30,16 @@ Here’s the current ranking of the top-performing models on the AI4Arctic Sea I
 | 3    |  Densenet    | CNN      |    | [GitHub](https://github.com/bdlab-ucd/IceBench)  | 54.77     | 53.89   | 63.79     | 54.77   | 38.51  |
 
 
+### AI4Arctic Sea Ice Challenge Dataset: 
+   We use the raw version of this dataset, which was produced for the AutoICE competition initiated by the European Space Agency (ESA) ɸ-lab. The purpose of the competition is to develop deep learning models to automatically produce sea ice charts including sea ice concentration, stage-of-development and floe size (form) information.
 
+   You can access this dataset at:
+   [https://data.dtu.dk/collections/AI4Arctic_Sea_Ice_Challenge_Dataset/6244065](https://data.dtu.dk/collections/AI4Arctic_Sea_Ice_Challenge_Dataset/6244065)
+
+   Alternatively, you can use the ready-to-train data provided in the same collection.
+
+   Citation:
+   Buus-Hinkler, Jørgen; Wulf, Tore; Stokholm, Andreas Rønne; Korosov, Anton; Saldo, Roberto; Pedersen, Leif Toudal; et al. (2022). AI4Arctic Sea Ice Challenge Dataset. Technical University of Denmark. Collection. https://doi.org/10.11583/DTU.c.6244065.v2
 
 ### Goals
 
