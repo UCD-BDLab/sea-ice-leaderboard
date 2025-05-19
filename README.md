@@ -26,8 +26,8 @@ Here’s the current ranking of the top-performing models on the AI4Arctic Sea I
 |------|----------------------|-------------|----------------|----------|-------------|---------|-----------|---------|------|
 | 1    | DeepLabV | Deeplab |  Elsevier 2025 | [GitHub](https://github.com/geohai/autoice-challenge-geospatial-encoding)  | N/A | 89.35 | N/A       | N/A     | N/A  |
 | 2    | MMSeaIce | UNet       | Cryosphere 2024 | [GitHub](https://github.com/echonax07/MMSeaIce) | N/A      | 88.7     | N/A       | N/A     | N/A  |
-| 3    |  Unet       | UNet       |       | [GitHub](https://github.com/bdlab-ucd/IceBench) | 86.36    | 84.78   | 84.68     | 86.36  | 77.18 |
-| 4    |  Densenet    | CNN      |    | [GitHub](https://github.com/bdlab-ucd/IceBench)  | 54.77     | 53.89   | 63.79     | 54.77   | 38.51  |
+| 3    |  Unet       | UNet       | MDPI 2025      | [GitHub](https://github.com/bdlab-ucd/IceBench) | 86.36    | 84.78   | 84.68     | 86.36  | 77.18 |
+| 4    |  Densenet    | CNN      | MDPI 2025   | [GitHub](https://github.com/bdlab-ucd/IceBench)  | 54.77     | 53.89   | 63.79     | 54.77   | 38.51  |
 
 
 ### AI4Arctic Sea Ice Challenge Dataset: 
